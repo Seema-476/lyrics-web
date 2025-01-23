@@ -87,6 +87,6 @@ export const FOOTER_DATA = [
 export const SOCIAL_LINKS = [
     { name: 'Facebook', link: 'https://www.facebook.com/', icon: 'facebook.svg' },
     { name: 'Instagram', link: 'https://www.instagram.com/', icon: 'instagram.svg' },
-    { name: 'Youtube', link: 'https://www.instagram.com/', icon: 'youtube.svg' },
+    { name: 'Youtube', link: 'https://www.youtube.com/', icon: 'youtube.svg' },
     { name: 'Pinterest', link: 'https://in.pinterest.com/', icon: 'pinterest.svg' },
 ];
