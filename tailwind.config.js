@@ -7,7 +7,7 @@ module.exports = {
     extend: {
       container: {
         center: true,
-        padding: "20px",
+        padding: "16px",
         screens: {
           'sm': "640px",
           'md': "768px",
@@ -16,7 +16,7 @@ module.exports = {
         }
       },
       fontSize: {
-        'custom-xl': "32px",
+        'custom-xs': '10px'
       },
       lineHeight: {
         'custom-xl': "150%",
@@ -27,8 +27,10 @@ module.exports = {
         'off-white': "#FAFAFF",
         'custom-black': "#14191C",
         'custom-gray': "#333333",
+        'custom-blue': "#007BFF",
         'light-purple': "#DBDBF3",
-        'light-gray': "#CECECE"
+        'light-gray': "#CECECE",
+        'custom-light-gray': "#9F9DAB",        
       },
       boxShadow: { 
       'custom-xl': "0px 10px 10px 0px #31374D1A",
